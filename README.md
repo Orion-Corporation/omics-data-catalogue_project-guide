@@ -14,6 +14,14 @@ The Omics Data Catalogue project provides a catalogue for omics data at OrionPha
 
 ![Omics Data Catalogue](pictures/Omics_Data_Catalogue.png)
 
+*Overview of the Omics Data Catalogue architecture*
+
+- **(1) Data Source**. Omics data are stored in Domino Research within project folders, each following a standardized subfolder structure.
+- **(2) Omics Data Annotation**. Omics data are labelled by users through the _Omis Data Label_ web application.
+- **(3) Sync to Data Model**. A scheduled Job exports Omics metadata files to the Ressu Databricks Lakehouse.
+- **(4) Omics Data Model** Omics Metadata Files are ingested to the Omics Catalog data model.
+- **(5) Omics Data Catalogue**. The Omics Data Catalogue web application enable users to query the catalogue.  
+
 ## User Guide
 
 This section is for end users and will cover how to work with the Omics Data Catalogue.
