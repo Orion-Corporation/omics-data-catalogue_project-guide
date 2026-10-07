@@ -20,7 +20,9 @@ The Omics Data Catalogue project provides a catalogue for omics data at OrionPha
 - **(2) Omics Data Annotation**. Omics data are labelled by users through the _Omis Data Label_ web application.
 - **(3) Sync to Data Model**. A scheduled Job exports Omics metadata files to the Ressu Databricks Lakehouse.
 - **(4) Omics Data Model** Omics Metadata Files are ingested to the Omics Catalog data model.
-- **(5) Omics Data Catalogue**. The Omics Data Catalogue web application enable users to query the catalogue.  
+- **(5) Omics Data Catalogue**. The Omics Data Catalogue web application enable users to query the catalogue.
+
+### Repositories 
 
 ## User Guide
 
