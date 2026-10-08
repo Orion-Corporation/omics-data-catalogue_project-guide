@@ -6,6 +6,7 @@ This repository contains guidance for end users and developers working with the 
 
 - [Project Overview](#project-overview)
   - [list of code repositories](#list-of-code-repositories)
+  - [list of web applications](#list-of-web-applications)
 - [User Guide](#user-guide)
 - [Developer Guide](#developer-guide)
 
