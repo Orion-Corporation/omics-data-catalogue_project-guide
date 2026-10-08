@@ -22,7 +22,18 @@ The Omics Data Catalogue project provides a catalogue for omics data at OrionPha
 - **(4) Omics Data Model** Omics Metadata Files are ingested to the Omics Catalog data model.
 - **(5) Omics Data Catalogue**. The Omics Data Catalogue web application enable users to query the catalogue.
 
-### Repositories 
+### List of Code Repositories 
+- **omics-data-label**: https://github.com/Orion-Corporation/omics-data-label
+- **omics-metadata-signature**: https://github.com/Orion-Corporation/omics-metadata-signature
+- **omics-export**: https://github.com/Orion-Corporation/omics-export
+- **omics-data-model**: https://dev.azure.com/Orion-Corporation/Redp/_git/omics-data-model
+- **omics-data-catalogue-app**: https://dev.azure.com/Orion-Corporation/Rddw/_git/omics-data-catalogue-app
+
+### List of Web Applications
+- **omics-data-label - QA**:   https://orion.domino.tech/apps/omics_data_label-qa?scope=global
+- **omics-data-label - PROD**: https://orion.domino.tech/apps/omics_data_label?scope=global
+- **omics-data-catalogue-app - QA**: https://omics-data-catalogue-qa-3060045031319514.14.azure.databricksapps.com/
+- **omics-data-catalogue-app - PROD**: https://omics-data-catalogue-3060045031319514.14.azure.databricksapps.com/
 
 ## User Guide
 
