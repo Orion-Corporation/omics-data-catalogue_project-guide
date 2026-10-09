@@ -5,6 +5,7 @@ This repository contains guidance for end users and developers working with the 
 ## Contents
 
 - [Project Overview](#project-overview)
+- [Architecture](#architecture)
   - [list of code repositories](#list-of-code-repositories)
   - [list of web applications](#list-of-web-applications)
 - [User Guide](#user-guide)
@@ -12,11 +13,17 @@ This repository contains guidance for end users and developers working with the 
 
 ## Project Overview
 
-The Omics Data Catalogue project provides a catalogue for omics data at OrionPharma. This guide is the central place for project instructions for end users and developers.
+The **Omics Data Catalogue** helps the Bioinformatics team at Orion Pharma find existing omics data from preclinical drug development. 
 
+It covers both raw and processed data, including historical datasets. The catalogue describes the data, associated samples, and analyses. This helps scientists understand existing data and reuse it, saving time and money.
+
+Omics data from clinical trials are outside the scope of this project.
+
+**The omics data you need may already exist.**
+
+
+## Architecture
 ![Omics Data Catalogue](pictures/Omics_Data_Catalogue.png)
-
-*Overview of the Omics Data Catalogue architecture*
 
 - **(1) Data Source**. Omics data are stored in Domino Research within project folders, each following a standardized subfolder structure.
 - **(2) Omics Data Annotation**. Omics data are labelled by users through the _Omis Data Label_ web application.
