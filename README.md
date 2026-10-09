@@ -39,10 +39,36 @@ Omics data from clinical trials are outside the scope of this project.
 - **omics-data-catalogue-app**: https://dev.azure.com/Orion-Corporation/Rddw/_git/omics-data-catalogue-app
 
 ### List of Web Applications
-- **omics-data-label - QA**:   https://orion.domino.tech/apps/omics_data_label-qa?scope=global
-- **omics-data-label - PROD**: https://orion.domino.tech/apps/omics_data_label?scope=global
-- **omics-data-catalogue-app - QA**: https://omics-data-catalogue-qa-3060045031319514.14.azure.databricksapps.com/
-- **omics-data-catalogue-app - PROD**: https://omics-data-catalogue-3060045031319514.14.azure.databricksapps.com/
+
+<table>
+  <thead>
+    <tr>
+      <th>App</th>
+      <th>Environment</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">omics-data-label</td>
+      <td>QA</td>
+      <td>https://orion.domino.tech/apps/omics_data_label-qa?scope=global</td>
+    </tr>
+    <tr>
+      <td>PROD</td>
+      <td>https://orion.domino.tech/apps/omics_data_label?scope=global</td>
+    </tr>
+    <tr>
+      <td rowspan="2">omics-data-catalogue</td>
+      <td>QA</td>
+      <td>https://omics-data-catalogue-qa-3060045031319514.14.azure.databricksapps.com/</td>
+    </tr>
+    <tr>
+      <td>PROD</td>
+      <td>https://omics-data-catalogue-3060045031319514.14.azure.databricksapps.com/</td>
+    </tr>
+  </tbody>
+</table>
 
 ## User Guide
 
